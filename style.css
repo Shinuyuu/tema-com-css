@@ -1,0 +1,38 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: center;
+    background: #111;
+background-image: url(https://a-static.besthdwallpaper.com/makima-black-background-from-chainsaw-man-wallpaper-2800x2100-106140_28.jpg);
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+}
+
+main#container {
+
+}
+
+h1.titulo {
+background: -webkit-linear-gradient(120deg, hsl(9, 93%, 36%), hsl(41, 100%, 49%)); 
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+}
+
+p.frase {
+background: -webkit-linear-gradient(120deg, hsl(32, 94%, 61%), hsl(0, 69%, 51%));
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+justify-content: center;
+align-items: center;
+gap: 50px;
+width: 200%;
+height: 10px;
+}
+
+p.autor {
+background: -webkit-linear-gradient(120deg, hsl(318, 94%, 61%), hsl(239, 69%, 51%));
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+}
