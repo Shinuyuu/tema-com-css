@@ -4,7 +4,7 @@ body {
     align-items: center;
     flex-direction: center;
     background: #111;
-background-image: url(https://a-static.besthdwallpaper.com/makima-black-background-from-chainsaw-man-wallpaper-2800x2100-106140_28.jpg);
+background-image: url(https://c4.wallpaperflare.com/wallpaper/450/641/186/chainsaw-man-power-chainsaw-man-manga-artwork-horns-hd-wallpaper-preview.jpg);
 background-position: center;
 background-repeat: no-repeat;
 background-size: cover;
@@ -15,24 +15,34 @@ main#container {
 }
 
 h1.titulo {
-background: -webkit-linear-gradient(120deg, hsl(9, 93%, 36%), hsl(41, 100%, 49%)); 
+background: -webkit-linear-gradient(120deg, hsla(0, 100%, 50%, 0.589), hsla(170, 100%, 50%, 0.795)); 
 -webkit-background-clip: text;
 -webkit-text-fill-color: transparent;
+background-size: cover;
+justify-content:left;
+text-align: right;
+margin-left: 100px;
+width: 100%;
+margin-top: -20px;
 }
 
 p.frase {
-background: -webkit-linear-gradient(120deg, hsl(32, 94%, 61%), hsl(0, 69%, 51%));
+background: -webkit-linear-gradient(120deg, hsl(266, 100%, 50%), hsl(0, 100%, 50%));
 -webkit-background-clip: text;
 -webkit-text-fill-color: transparent;
-justify-content: center;
-align-items: center;
-gap: 50px;
-width: 200%;
-height: 10px;
+justify-content:left;
+text-align: right;
+width: 218%;
+height: 250px;
+margin-top: -100px;
+margin-left: -105px;
 }
 
 p.autor {
-background: -webkit-linear-gradient(120deg, hsl(318, 94%, 61%), hsl(239, 69%, 51%));
+background: -webkit-linear-gradient(120deg, hsla(0, 100%, 50%, 0.781), hsl(300, 100%, 50%));
 -webkit-background-clip: text;
 -webkit-text-fill-color: transparent;
+margin-top: -345px;
+width: 50%;
+margin-left: 128%;
 }
